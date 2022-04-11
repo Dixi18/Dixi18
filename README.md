@@ -1,6 +1,7 @@
-# Hello!
-I'm Felix and I'm currently just learning new stuff in the world of programming.
+Hello all,  
+my repos are available for you to download, use and modify as you like.
 
-I really enjoy going the extra mile in order to learn new approaches on accomplishing my goals.
+Some are applications that run on Linux servers, others are config setups I use and some are just little experiments.  
+Also, I've programmed a small [website](https://felix-khlmnn.github.io) to present the repos in a different way.
 
-Have fun checking out some of my projects and also my packages on npm!
+Thanks for reading.
