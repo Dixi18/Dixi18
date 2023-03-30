@@ -1,7 +1,11 @@
 Hello all,  
-my repos are available for you to download, use and modify as you like.
+I'm a technical computer engineering student, currently I'm in the second semester of my studies.  
 
-Some are applications that run on Linux servers, others are config setups I use and some are just little experiments.  
-Also, I've programmed a small [website](https://felix-khlmnn.github.io) to present the repos in a different way.
+I'm interested in projects and technologies involving 
+* Embedded Linux and real-time applications
+  * Specifically the Yocto Project
+* Containerization and orchestration of services
+* Infrastructure automation
+* Smaller projects involving Node.js and Python
 
-Thanks for reading.
+This list is nothing but a brief and unordered excerpt of things that I do at work, in my free time and in the university :)
