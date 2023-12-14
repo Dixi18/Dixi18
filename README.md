@@ -1,5 +1,5 @@
 Hello all,  
-I'm a computer engineering student. currently I'm in the third semester of my studies.  
+I'm a computer engineering student. Currently, I'm in the third semester of my studies.  
 
 I'm interested in projects and technologies involving 
 * Embedded Linux and real-time applications
