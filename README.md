@@ -1,4 +1,4 @@
-Hello all,  
+Hello,  
 I'm a computer engineering student. Currently, I'm in the third semester of my studies.  
 
 I'm interested in projects and technologies involving 
