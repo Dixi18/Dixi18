@@ -1,11 +1,6 @@
 Hello,  
-I'm a computer engineering student. Currently, I'm in the third semester of my studies.  
+I'm a computer engineering student based in Germany. Currently, I'm in the fifth semester of my studies.  
 
 I'm interested in projects and technologies involving 
 * Embedded Linux and real-time applications
-  * Specifically the Yocto Project
-* Containerization and orchestration of services
-* Infrastructure automation
-* Smaller projects involving Node.js and Python
-
-This list is nothing but a brief and unordered excerpt of things that I do at work, in my free time and in the university :)
+* Firmware development for the STM32 plattform
